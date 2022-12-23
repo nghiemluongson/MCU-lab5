@@ -1,0 +1,15 @@
+2022-12-14 13:53:14,411 [INFO] Activator:177 - 
+
+
+2022-12-14 13:53:14,411 [INFO] Activator:178 - !SESSION log4j initialized
+2022-12-14 13:56:37,067 [INFO] Activator:177 - 
+
+
+2022-12-14 13:56:37,071 [INFO] Activator:178 - !SESSION log4j initialized
+2022-12-14 13:56:57,346 [INFO] McuFinderGlobals:39 - Set McuFinder mode to 2 (CubeIDE integrated)
+2022-12-14 13:56:57,925 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111
+2022-12-14 13:56:57,944 [INFO] DbMcusXml:74 - Set database path to: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\/mcu/
+2022-12-14 13:59:18,072 [INFO] Activator:177 - 
+
+
+2022-12-14 13:59:18,072 [INFO] Activator:178 - !SESSION log4j initialized
